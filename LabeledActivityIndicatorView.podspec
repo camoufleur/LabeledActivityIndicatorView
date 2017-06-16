@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LabeledActivityIndicatorView"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A label with activityIndicator"
 
   # This description is used to generate tags and improve search results.
@@ -95,6 +95,7 @@ Pod::Spec.new do |s|
   #
 
   s.source_files  = "LabeledActivityIndicatorView/*.{h,m}"
+  s.resources     = 'LabeledActivityIndicatorView/resource.bundle'
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
