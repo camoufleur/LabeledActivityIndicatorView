@@ -5,11 +5,11 @@ UIActivityIndicatorView with a label which can be added to UIButton and UINaviga
 
 先上一张微信聊天界面导航栏表示网络请求的效果图
 
-![Wechat](https://github.com/camoufleur/LabeledActivityIndicatorView/blob/master/Images/weChat.png?raw=true)
+![Wechat](https://github.com/camoufleur/LabeledActivityIndicatorView/blob/master/Demo/Images/weChat.png)
 
 再放一张最终的效果图
 
-![UIActivityIndicatorView](https://github.com/camoufleur/LabeledActivityIndicatorView/blob/master/Images/Demo.gif?raw=true)
+![UIActivityIndicatorView](https://github.com/camoufleur/LabeledActivityIndicatorView/blob/master/Demo/Images/Demo.gif)
 		
 - 喜欢的给个Star吧.
 - 简书个人主页[Camoufleur](http://www.jianshu.com/u/5eb32816c254)
